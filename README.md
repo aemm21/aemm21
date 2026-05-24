@@ -25,4 +25,4 @@ Ayudo a empresas y Pymes a asegurar su continuidad operativa mediante infraestru
 **👨‍💻 Portafolio Personal & Consultoría Directa:**
 - 🌐 **Sitio Web:** [alexismolina.cl](https://www.alexismolina.cl)
 - ✉️ **Email de Soporte:** soporte@alexismolina.cl
-- 💼 **LinkedIn:** [Alexis Molina](linkedin.com/in/alexis-molina-ti/)
+- 💼 **LinkedIn:** [Alexis Molina](https://linkedin.com/in/alexis-molina-ti/)
